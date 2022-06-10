@@ -1,60 +1,57 @@
-��ϵͳ��һ������ssm�ҷ�maven��ũ��Ʒ����ϵͳ�����޸�Ϊ��������ϵͳ��
+本系统是一个基于ssm且非maven的农产品购物系统（可修改为其他购物系统）
 
 
-��Ŀ��������¼���ںš�java��ĿԴ�롿����Ҫ�����й�עһ�¹��ںŲ�����Դ��
+CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/122301421
 
-![���ںŶ�ά��](./���н�ͼ/wechat.png)
+B站运行视频：https://www.bilibili.com/video/BV1654y157Mw	
 
-
-ϵͳ������spring,springmvc,mybatis,layui��jsp
-
-ϵͳ�ж����û���
-
-1������Ա��
-
-�����������Ʒ�����������������û����������ù���Ա
-
-2����ң�
-
-��½ע�ᣬ��ѯ�鿴��Ʒ��������Ʒ����Ʒ�Ƽ������ﳵ���ҵĶ������ջ���ַ���޸�����
-
-Ĭ�Ϻ�̨�û�: �û���:admin ����:admin
-
-Ĭ��ǰ̨�û�: �û���:user ����:user
+项目下载地址：http://www.shiyuncode.com/details?id=27
 
 
-CSDN���͵�ַ��[����ssm�ҷ�maven��ũ��Ʒ����ϵͳ](https://blog.csdn.net/mataodehtml/article/details/116536170)
+系统技术：spring,springmvc,mybatis,layui，jsp
 
-������Ƶ��ַ��[����ssm�ҷ�maven��ũ��Ʒ����ϵͳ](https://www.bilibili.com/video/BV1654y157Mw)
+系统有二种用户：
+
+1、管理员：
+
+分类管理，商品管理，订单管理，用户管理，设置管理员
+
+2、买家：
+
+登陆注册，查询查看商品，搜索商品，商品推荐，购物车，我的订单，收货地址，修改密码
+
+默认后台用户: 用户名:admin 密码:admin
+
+默认前台用户: 用户名:user 密码:user
 
 
-����Ա��
+管理员：
 
-![��Ŀ�ṹ](./���н�ͼ/��Ŀ�ṹ.png)
+![项目结构](./运行截图/项目结构.png)
 
-![��ҳ](./���н�ͼ/��ҳ.png)
+![首页](./运行截图/首页.png)
 
-![�������](./���н�ͼ/�������.png)
+![分类管理](./运行截图/分类管理.png)
 
-![��̨��½](./���н�ͼ/��̨��½.png)
+![后台登陆](./运行截图/后台登陆.png)
 
-![��Ʒ����](./���н�ͼ/��Ʒ����.png)
+![商品管理](./运行截图/商品管理.png)
 
-![��Ʒ����](./���н�ͼ/��Ʒ����.png)
+![商品详情](./运行截图/商品详情.png)
 
-![�ҵĶ���](./���н�ͼ/�ҵĶ���.png)
+![我的订单](./运行截图/我的订单.png)
 
-![�ջ���ַ](./���н�ͼ/�ջ���ַ.png)
+![收货地址](./运行截图/收货地址.png)
 
-![ע��ҳ��](./���н�ͼ/ע��ҳ��.png)
+![注册页面](./运行截图/注册页面.png)
 
-![�û�����](./���н�ͼ/�û�����.png)
+![用户管理](./运行截图/用户管理.png)
 
-![��½ҳ��](./���н�ͼ/��½ҳ��.png)
+![登陆页面](./运行截图/登陆页面.png)
 
-![��������](./���н�ͼ/��������.png)
+![管理设置](./运行截图/管理设置.png)
 
-![��������](./���н�ͼ/��������.png)
+![订单管理](./运行截图/订单管理.png)
 
-![���ﳵ](./���н�ͼ/���ﳵ.png)
+![购物车](./运行截图/购物车.png)
 
