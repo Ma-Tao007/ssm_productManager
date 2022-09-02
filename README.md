@@ -1,11 +1,12 @@
 本系统是一个基于ssm且非maven的农产品购物系统（可修改为其他购物系统）
 
+项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
+
+![公众号二维码](./运行截图/wechat.png)
 
 CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/122301421
 
 B站运行视频：https://www.bilibili.com/video/BV1654y157Mw	
-
-项目下载地址：http://www.shiyuncode.com/details?id=27
 
 
 系统技术：spring,springmvc,mybatis,layui，jsp
